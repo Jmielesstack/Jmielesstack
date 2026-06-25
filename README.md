@@ -5,7 +5,7 @@
 Soy un **desarrollador ** con formación técnica en Sistemas y actualmente estudiante de un **tecnólogo en Análisis y Desarrollo de Software**.  
 Apasionado por la tecnología, me gusta crear soluciones web completas, funcionales y con una buena experiencia de usuario. Busco mejorar constantemente mis habilidades y contribuir con proyectos que generen impacto positivo.
 
----
+--
 
 ### 🧠 Tecnologías y habilidades
 
